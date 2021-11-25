@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    background-color: #fffbf4;
+    box-shadow: 0em 0.3em 0.3em #6B2200;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.button {
+    margin-top: 1%;
+    margin-bottom: -5%;
+    margin-left: 5%;
+    width: 10%;
+    height: 20%;
+    border: 0px;
+    background: transparent;
+    color: #6B2200;
+    font-size: 200%;
+    font-weight: 800;
+}
+
